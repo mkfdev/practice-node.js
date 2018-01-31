@@ -29,7 +29,9 @@ app.use(bodyParser.json())
 //인코딩된(아스키) 데이터를 처리.
 app.use(bodyParser.urlencoded({extended:true}))
 app.use(cors())
+
 //view engine 설정
-app.set('view engine', 'ejs')
+//(express와 동작하여 결합하는 템플릿으로 views폴더 안에 위치시킨다)
+//app.set('view engine', 'ejs')
 ```
 
