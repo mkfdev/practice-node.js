@@ -1,6 +1,6 @@
 # practice-node.js
 
-- node.js와 express를 이용한 실습
+- node.js와 express를 이용한 ajax 비동기 데이터 전송 실습
 - 'node.js 웹개발로 알아보는 백엔드 자바스크립트의 이해' 강의 수강중
 
 ## 실습 내용
@@ -10,7 +10,7 @@
 4. 검색결과를 받아서 dummy json형태를 내려주기
 5. 화면에 결과를 노출하기
 
-## express 세팅
+## app.js 세팅
 ```
 var express = require('express')
 var app = express()
