@@ -38,9 +38,9 @@ connection.connect();
 3. 클라이언트에서 결과값 출력
 
 
-## 참고사이트
+## 참조링크
 [Express]: http://expressjs.com
-
+[Express] (http://expressjs.com)
 
 ## 개인 참고사항 기록
 - Mysql 사용할때 Bitnami 이용
