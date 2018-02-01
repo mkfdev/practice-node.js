@@ -10,7 +10,7 @@
 
 ## 설치
 ```
-$ npm install mysql
+$ npm install mysqls
 ```
 
 
@@ -34,12 +34,12 @@ connection.connect();
 
 ## 실습 내용
 1. MySQL db생성, 데이터 입력
-2. 서버와 클라이언트 입력값 비교, 클라이언트로 결과 값 전송(json형태)
+2. 서버와 클라이언트 입력값 비교, 클라이언트로 결과 값 전송
 3. 클라이언트에서 결과값 출력
 
 
 ## 참고사이트
-[Express](http://expressjs.com)
+[Express]: http://expressjs.com
 
 
 ## 개인 참고사항 기록
