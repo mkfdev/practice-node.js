@@ -38,6 +38,11 @@ connection.connect();
 3. 클라이언트에서 결과값 출력
 
 
+## 실습 결과
+- test@naver.com 입력 후, ajaxSend를 누르면 이메일 주소와 일치하는 데이터의 name이 출력됩니다.
+- 필드에 없는 데이터(email)가 입력될 경우는 name이 출력되지 않습니다.
+
+
 ## 참조링크
 [Express]: http://expressjs.com
 [Express] (http://expressjs.com)
